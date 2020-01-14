@@ -10,7 +10,7 @@ namespace Hola_Mundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Chavale");
+            Console.WriteLine("Wakanda forebah");
             Console.ReadLine();
         }
     }
