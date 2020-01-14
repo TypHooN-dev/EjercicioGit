@@ -11,6 +11,7 @@ namespace Hola_Mundo
         static void Main(string[] args)
         {
             Console.WriteLine("Wakanda forebah");
+            Console.WriteLine("Soy una pantera negra");
             Console.ReadLine();
         }
     }
